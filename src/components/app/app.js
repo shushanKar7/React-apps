@@ -9,7 +9,7 @@ import ItemAddForm from "../item-add-form";
 import "./app.css";
 
 class App extends Component {
-  maxId = 100;
+  maxId = 101;
 
   state = {
     todoData: [
